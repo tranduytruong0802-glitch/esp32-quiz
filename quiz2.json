@@ -1,0 +1,166 @@
+{
+  "title": "Ky Nang So & Ung Dung Cong Nghe",
+  "lesson": "Kien thuc ve ky nang so, ung dung cong nghe trong doanh nghiep, lam viec so.",
+  "quiz": [
+    {
+      "question": "Ky nang so la gi?",
+      "a": "Kha nang su dung thiet bi so",
+      "b": "Kha nang lam viec online",
+      "c": "Kha nang su dung cong nghe",
+      "d": "Tat ca deu dung",
+      "correct": "d"
+    },
+    {
+      "question": "Ky nang so quan trong vi sao?",
+      "a": "Ho tro lam viec hieu qua",
+      "b": "Tang nang suat",
+      "c": "Phu hop xu the CDS",
+      "d": "Tat ca",
+      "correct": "d"
+    },
+    {
+      "question": "Ung dung quan trong cua Cloud?",
+      "a": "Luu tru du lieu",
+      "b": "Chay ung dung",
+      "c": "Sao luu & dong bo",
+      "d": "Tat ca",
+      "correct": "d"
+    },
+    {
+      "question": "Email cong ty thuong dung de?",
+      "a": "Giai tri",
+      "b": "Lam viec chuyen nghiep",
+      "c": "Choi game",
+      "d": "Luu tru video",
+      "correct": "b"
+    },
+    {
+      "question": "Su dung Google Drive de?",
+      "a": "Chia se tai lieu",
+      "b": "Lam viec nhom",
+      "c": "Luu tru may tinh",
+      "d": "Tat ca",
+      "correct": "d"
+    },
+    {
+      "question": "Phan mem quan ly cong viec la?",
+      "a": "Trello",
+      "b": "Jira",
+      "c": "Notion",
+      "d": "Tat ca",
+      "correct": "d"
+    },
+    {
+      "question": "QR Code dung lam gi?",
+      "a": "Mua hang",
+      "b": "Thanh toan",
+      "c": "Truy cap thong tin nhanh",
+      "d": "Tat ca",
+      "correct": "d"
+    },
+    {
+      "question": "Video Conference la?",
+      "a": "Hoi nghi truyen hinh",
+      "b": "Xem TV",
+      "c": "Xem phim online",
+      "d": "Live stream game",
+      "correct": "a"
+    },
+    {
+      "question": "Ung dung Zoom dung de?",
+      "a": "Hop truc tuyen",
+      "b": "Choi game",
+      "c": "Chup anh",
+      "d": "Cai dat may in",
+      "correct": "a"
+    },
+    {
+      "question": "Phishing la gi?",
+      "a": "Hinh thuc lua dao online",
+      "b": "Quang cao",
+      "c": "Bao mat thong tin",
+      "d": "Thiet ke website",
+      "correct": "a"
+    },
+    {
+      "question": "Mat khau manh nen co?",
+      "a": "Chu viet hoa",
+      "b": "Chu thuong",
+      "c": "So & ky tu dac biet",
+      "d": "Tat ca",
+      "correct": "d"
+    },
+    {
+      "question": "2FA la gi?",
+      "a": "Bao mat hai lop",
+      "b": "Ma quoc gia",
+      "c": "Kieu file",
+      "d": "Captcha",
+      "correct": "a"
+    },
+    {
+      "question": "Ung dung CRM dung de?",
+      "a": "Quan ly khach hang",
+      "b": "Quan ly kho hang",
+      "c": "Quan ly du an",
+      "d": "Sua chua thiet bi",
+      "correct": "a"
+    },
+    {
+      "question": "ERP dung lam gi?",
+      "a": "Quan ly tai chinh",
+      "b": "Quan ly nhan su",
+      "c": "Quan ly san xuat",
+      "d": "Tat ca",
+      "correct": "d"
+    },
+    {
+      "question": "Ky nang lam viec online can?",
+      "a": "Ky nang giao tiep",
+      "b": "Ky nang su dung cong cu so",
+      "c": "Tu chu & ky luat",
+"d": "Tat ca",
+      "correct": "d"
+    },
+    {
+      "question": "Bao mat thong tin ca nhan bao gom?",
+      "a": "Khong chia se mat khau",
+      "b": "Tat 2FA",
+      "c": "Ghi mat khau len ban",
+      "d": "Gui mat khau qua messenger",
+      "correct": "a"
+    },
+    {
+      "question": "Ung dung AI trong doanh nghiep?",
+      "a": "Chatbot",
+      "b": "Phan tich du lieu",
+      "c": "De xuat giai phap",
+      "d": "Tat ca",
+      "correct": "d"
+    },
+    {
+      "question": "Ban do so (GIS) dung lam gi?",
+      "a": "Ban ve ki thuat",
+      "b": "Quan ly ha tang",
+      "c": "Theo doi dia ly",
+      "d": "Tat ca",
+      "correct": "d"
+    },
+    {
+      "question": "Ky nang so giup?",
+      "a": "Lam viec hieu qua hon",
+      "b": "Giao tiep tot hon",
+      "c": "Tang thu nhap",
+      "d": "Tat ca",
+      "correct": "d"
+    },
+    {
+      "question": "Ung dung thanh toan dien tu?",
+      "a": "Momo",
+      "b": "Zalopay",
+      "c": "Internet Banking",
+      "d": "Tat ca",
+      "correct": "d"
+    }
+  ]
+}
