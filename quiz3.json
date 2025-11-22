@@ -1,0 +1,166 @@
+{
+  "title": "Chinh Phu So & Xa Hoi So",
+  "lesson": "Kien thuc ve chinh phu so, dich vu cong truc tuyen, xa hoi so.",
+  "quiz": [
+    {
+      "question": "Chinh phu so la gi?",
+      "a": "Ung dung CNTT trong chinh phu",
+      "b": "Chinh phu su dung cong nghe",
+      "c": "Cung cap dich vu cong tren internet",
+      "d": "Tat ca",
+      "correct": "d"
+    },
+    {
+      "question": "Muc tieu cua chinh phu so?",
+      "a": "Minh bach",
+      "b": "Hieu qua",
+      "c": "Phuc vu cong dan tot hon",
+      "d": "Tat ca",
+      "correct": "d"
+    },
+    {
+      "question": "Dich vu cong truc tuyen OESP la gi?",
+      "a": "Cung cap dich vu Nha nuoc tren Internet",
+      "b": "Ban hang online",
+      "c": "Dich vu game",
+      "d": "App giai tri",
+      "correct": "a"
+    },
+    {
+      "question": "CCCD gan chip ho tro?",
+      "a": "Xac thuc danh tinh",
+      "b": "Tich hop thong tin",
+      "c": "Giao dich dien tu",
+      "d": "Tat ca",
+      "correct": "d"
+    },
+    {
+      "question": "VNeID dung de?",
+      "a": "Xac thuc cong dan",
+      "b": "Giai tri",
+      "c": "Quang cao",
+      "d": "Danh bai online",
+      "correct": "a"
+    },
+    {
+      "question": "Ma dinh danh su dung cho?",
+      "a": "Moi cong dan",
+      "b": "Moi doanh nghiep",
+      "c": "Co quan Nha nuoc",
+      "d": "Tat ca",
+      "correct": "d"
+    },
+    {
+      "question": "Ho so suc khoe dien tu co?",
+      "a": "Thong tin benh ly",
+      "b": "Lich su kham chua benh",
+      "c": "Thong tin bao hiem y te",
+      "d": "Tat ca",
+      "correct": "d"
+    },
+    {
+      "question": "Muc tieu xa hoi so?",
+      "a": "Cong dan so",
+      "b": "Nen kinh te so",
+      "c": "Chinh phu so",
+      "d": "Tat ca",
+      "correct": "d"
+    },
+    {
+      "question": "Nen kinh te so gom?",
+      "a": "Thuong mai dien tu",
+      "b": "Thanh toan so",
+      "c": "Dich vu so",
+      "d": "Tat ca",
+      "correct": "d"
+    },
+    {
+      "question": "Ung dung y te so?",
+      "a": "Dat lich kham",
+      "b": "Tu van online",
+      "c": "Cap don thuoc dien tu",
+      "d": "Tat ca",
+      "correct": "d"
+    },
+    {
+      "question": "Giao duc so bao gom?",
+      "a": "Hoc truc tuyen",
+      "b": "Tai lieu so",
+      "c": "Nghe giang vien qua video",
+      "d": "Tat ca",
+      "correct": "d"
+    },
+    {
+      "question": "Dich vu hanh chinh cong truc tuyen muc do 4 cho phep?",
+      "a": "Nop ho so online",
+      "b": "Nhan ket qua online",
+      "c": "Thanh toan truc tuyen",
+      "d": "Tat ca",
+      "correct": "d"
+    },
+    {
+      "question": "Chuyen doi so giup chinh phu?",
+      "a": "Tiet kiem chi phi",
+      "b": "Minh bach hoa",
+      "c": "Nang cao chat luong phuc vu",
+      "d": "Tat ca",
+      "correct": "d"
+    },
+    {
+      "question": "Dinh danh dien tu la?",
+      "a": "Cach xac thuc danh tinh online",
+      "b": "Nhap mat khau",
+      "c": "Nhap so dien thoai",
+      "d": "Xem video",
+      "correct": "a"
+    },
+    {
+      "question": "Cong dan so la ai?",
+"a": "Nguoi su dung cac dich vu so",
+      "b": "Nguoi biet CNTT",
+      "c": "Nguoi dung mang xa hoi",
+      "d": "Nguoi lap trinh",
+      "correct": "a"
+    },
+    {
+      "question": "Loi ich cua xa hoi so?",
+      "a": "Ket noi moi nguoi",
+      "b": "Tang thong tin minh bach",
+      "c": "Giam chi phi xa hoi",
+      "d": "Tat ca",
+      "correct": "d"
+    },
+    {
+      "question": "He thong chinh phu so can?",
+      "a": "Nen tang du lieu",
+      "b": "Bao mat mang",
+      "c": "Ha tang so",
+      "d": "Tat ca",
+      "correct": "d"
+    },
+    {
+      "question": "Du lieu mo la?",
+      "a": "Du lieu duoc cong khai su dung",
+      "b": "Du lieu bi khoa",
+      "c": "Du lieu noi bo",
+      "d": "Du lieu mat",
+      "correct": "a"
+    },
+    {
+      "question": "Nen tang cong dan so?",
+      "a": "Cac dich vu Nha nuoc cung cap tren online",
+      "b": "Dich vu giai tri",
+      "c": "Mua sam online",
+      "d": "Truyen thong",
+      "correct": "a"
+    },
+    {
+      "question": "Chuyen doi so trong hanh chinh cong giup?",
+      "a": "Giam thu tuc",
+      "b": "Nang hieu qua",
+      "c": "Phuc vu nhanh hon",
+      "d": "Tat ca",
+      "correct": "d"
+    }
+  ]
+}
