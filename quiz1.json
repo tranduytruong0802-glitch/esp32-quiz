@@ -1,0 +1,168 @@
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+https://github.com
+{
+  "title": "Nhap mon Chuyen Doi So",
+  "lesson": "Khai niem co ban, loi ich, thanh phan cua chuyen doi so.",
+  "quiz": [
+    {
+      "question": "Chuyen doi so la gi?",
+      "a": "Ung dung cong nghe vao quy trinh",
+      "b": "Chuyen tai lieu tu giay sang excel",
+      "c": "Su dung may tinh",
+      "d": "Tat ca deu sai",
+      "correct": "a"
+    },
+    {
+      "question": "Muc tieu cua chuyen doi so?",
+      "a": "Tiet kiem chi phi",
+      "b": "Tang hieu suat",
+      "c": "Nang cao trai nghiem nguoi dung",
+      "d": "Tat ca deu dung",
+      "correct": "d"
+    },
+    {
+      "question": "Thanh phan cua chuyen doi so?",
+      "a": "Cong nghe",
+      "b": "Con nguoi",
+      "c": "Quy trinh",
+      "d": "Tat ca",
+      "correct": "d"
+    },
+    {
+      "question": "Du lieu duoc xem la?",
+      "a": "Nguon dau vao",
+      "b": "Tai nguyen",
+      "c": "Hang hoa",
+      "d": "Tat ca deu dung",
+      "correct": "d"
+    },
+    {
+      "question": "Cong nghe nao quan trong nhat?",
+      "a": "AI",
+      "b": "Big Data",
+      "c": "IoT",
+      "d": "Khong co cong nghe nao duy nhat",
+      "correct": "d"
+    },
+    {
+      "question": "IoT la gi?",
+      "a": "Mang luoi van vat ket noi",
+      "b": "Loai mang vien thong",
+      "c": "Robot thong minh",
+      "d": "Ung dung di dong",
+      "correct": "a"
+    },
+    {
+      "question": "AI dung de lam gi?",
+      "a": "Tu dong hoa",
+      "b": "Phan tich du lieu",
+      "c": "Ra quyet dinh",
+      "d": "Tat ca",
+      "correct": "d"
+    },
+    {
+      "question": "Big Data la gi?",
+      "a": "Du lieu rat lon",
+      "b": "Du lieu lon va phuc tap",
+      "c": "Du lieu de xu ly",
+      "d": "Chi su dung cho cong ty lon",
+      "correct": "b"
+    },
+    {
+      "question": "Loi ich cua chuyen doi so?",
+      "a": "Tang doanh thu",
+      "b": "Tiet kiem chi phi",
+      "c": "Toi uu quy trinh",
+      "d": "Tat ca",
+      "correct": "d"
+    },
+    {
+      "question": "Dieu kien quan trong nhat de CDS thanh cong?",
+      "a": "Cong nghe",
+      "b": "Nhan su",
+      "c": "Tai chinh",
+      "d": "Van hoa so",
+      "correct": "d"
+    },
+    {
+      "question": "Cloud la gi?",
+      "a": "May chu",
+      "b": "Con duong tren troi",
+      "c": "Kho chua online",
+      "d": "Tat ca deu dung",
+      "correct": "a"
+    },
+    {
+      "question": "AI viet tat cua?",
+      "a": "Automatic Internet",
+      "b": "Artificial Intelligence",
+      "c": "Auto Input",
+      "d": "Algo Integration",
+      "correct": "b"
+    },
+    {
+      "question": "Blockchain dung trong?",
+      "a": "Tien ma hoa",
+      "b": "Quan ly chuoi cung ung",
+      "c": "Xac thuc du lieu",
+      "d": "Tat ca",
+      "correct": "d"
+    },
+    {
+      "question": "Cybersecurity la?",
+      "a": "Bao mat mang",
+      "b": "Lap trinh game",
+      "c": "Thiet ke app",
+      "d": "Sua may tinh",
+      "correct": "a"
+    },
+    {
+      "question": "Chuyen doi so tac dong den?",
+      "a": "Doanh nghiep",
+      "b": "Nha nuoc",
+      "c": "Ca nhan",
+"d": "Tat ca",
+      "correct": "d"
+    },
+    {
+      "question": "Robot RPA dung cho?",
+      "a": "Tu dong thao tac lap lai",
+      "b": "Lap trinh game",
+      "c": "Huong dan giao thong",
+      "d": "Giam sat an ninh",
+      "correct": "a"
+    },
+    {
+      "question": "Xu huong CDS 2025?",
+      "a": "AI tong hop",
+      "b": "Tu dong hoa",
+      "c": "Phan tich du lieu",
+      "d": "Tat ca",
+      "correct": "d"
+    },
+    {
+      "question": "VR dung trong?",
+      "a": "Xem phim",
+      "b": "Dao tao",
+      "c": "Game",
+      "d": "Tat ca",
+      "correct": "d"
+    },
+    {
+      "question": "Digital twin la gi?",
+      "a": "Ban sao so",
+      "b": "Loai may chu",
+      "c": "Ung dung AI",
+      "d": "Mang internet",
+      "correct": "a"
+    },
+    {
+      "question": "CDS giup doanh nghiep?",
+      "a": "Tang canh tranh",
+      "b": "Toi uu van hanh",
+      "c": "Phat trien ben vung",
+      "d": "Tat ca",
+      "correct": "d"
+    }
+  ]
+}
